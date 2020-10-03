@@ -126,9 +126,9 @@ function Player.canImbueItem(self, imbuement, item)
 		return false
 	end
 
-	if imbuement:getBase().id == 3 and not self:getGroup():getAccess() and stg > -1 and self:getStorageValue(stg) < 1 then
-		return false
-	end
+	--if imbuement:getBase().id == 3 and not self:getGroup():getAccess() and stg > -1 and self:getStorageValue(stg) < 1 then
+	--	return false
+	--end
 
 	return true
 end

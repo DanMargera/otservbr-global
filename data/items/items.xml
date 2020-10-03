@@ -2240,40 +2240,30 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2202" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2166" article="a" name="power ring">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2203" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2167" article="an" name="energy ring">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2204" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2168" article="a" name="life ring">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2205" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2169" article="a" name="time ring">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2206" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2170" article="a" name="silver amulet">
 		<attribute key="weight" value="500" />
@@ -2497,10 +2487,7 @@
 		<attribute key="weight" value="100" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2165" />
-		<attribute key="duration" value="600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="invisible" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2508,20 +2495,14 @@
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2166" />
 		<attribute key="skillFist" value="6" />
-		<attribute key="duration" value="1800" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2204" article="an" name="energy ring (magic shield)">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2167" />
-		<attribute key="duration" value="600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="manashield" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2529,14 +2510,11 @@
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2168" />
-		<attribute key="duration" value="1200" />
 		<attribute key="healthGain" value="2" />
 		<attribute key="healthTicks" value="6000" />
 		<attribute key="manaGain" value="8" />
 		<attribute key="manaTicks" value="6000" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2206" article="a" name="time ring">
@@ -2545,8 +2523,6 @@
 		<attribute key="loottype" value="ring" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2169" />
-		<attribute key="duration" value="600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="speed" value="60" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2555,94 +2531,69 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2210" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2208" article="an" name="axe ring">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2211" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2209" article="a" name="club ring">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2212" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2210" article="a" name="sword ring (sword fighting +4)">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2207" />
 		<attribute key="skillSword" value="4" />
-		<attribute key="duration" value="1800" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2211" article="an" name="axe ring (axe fighting +4)">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2208" />
 		<attribute key="skillAxe" value="4" />
-		<attribute key="duration" value="1800" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2212" article="a" name="club ring (club fighting +4)">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2209" />
 		<attribute key="skillClub" value="4" />
-		<attribute key="duration" value="1800" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2213" article="a" name="dwarven ring">
 		<attribute key="weight" value="110" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2215" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2214" article="a" name="ring of healing">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="2216" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="2215" article="a" name="dwarven ring (hard drinking)">
 		<attribute key="weight" value="110" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2213" />
 		<attribute key="suppressDrunk" value="1" />
-		<attribute key="duration" value="3600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2216" article="a" name="ring of healing (faster regeneration)">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="2214" />
-		<attribute key="duration" value="450" />
 		<attribute key="healthGain" value="6" />
 		<attribute key="healthTicks" value="6000" />
 		<attribute key="manaGain" value="24" />
 		<attribute key="manaTicks" value="6000" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2217" article="a" name="spellbook">
@@ -4842,14 +4793,11 @@
 		<attribute key="weight" value="800" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="loottype" value="boots" />
-		<attribute key="decayTo" value="10021" />
 		<attribute key="transformDeEquipTo" value="6132" />
-		<attribute key="duration" value="14400" />
 		<attribute key="healthGain" value="3" />
 		<attribute key="healthTicks" value="6000" />
 		<attribute key="manaGain" value="12" />
 		<attribute key="manaTicks" value="6000" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2641" name="patched boots">
@@ -11188,8 +11136,6 @@
 		<attribute key="slotType" value="feet" />
 		<attribute key="loottype" value="boots" />
 		<attribute key="transformEquipTo" value="2640" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item fromid="6133" toid="6159" article="a" name="tree wall" />
 	<item fromid="6160" toid="6172" article="a" name="grass roof" />
@@ -11374,8 +11320,6 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="6301" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="absorbPercentDeath" value="5" />
 	</item>
 	<item id="6301" article="a" name="death ring">
@@ -11384,11 +11328,8 @@
 		<attribute key="loottype" value="ring" />
 		<attribute key="armor" value="1" />
 		<attribute key="absorbPercentDeath" value="5" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="6300" />
-		<attribute key="duration" value="480" />
 		<attribute key="skillShield" value="-10" />
-		<attribute key="showduration" value="1" />
 		<attribute key="description" value="Wearing it makes you feel a little weaker than usual." />
 	</item>
 	<item id="6302" article="a" name="dead wyvern">
@@ -27014,8 +26955,6 @@
 		<attribute key="absorbPercentPhysical" value="10" />
 		<attribute key="absorbPercentEnergy" value="8" />
 		<attribute key="transformEquipTo" value="18528" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="18409" article="a" name="wand of everblazing">
@@ -27533,9 +27472,6 @@
 		<attribute key="absorbPercentPhysical" value="10" />
 		<attribute key="absorbPercentEarth" value="8" />
 		<attribute key="transformDeEquipTo" value="18408" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="3600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item fromid="18529" toid="18536" name="stairs">
@@ -35284,8 +35220,6 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
 		<attribute key="transformEquipTo" value="24790" />
-		<attribute key="showduration" value="1" />
-		<attribute key="stopduration" value="1" />
 		<attribute key="armor" value="3" />
 		<attribute key="absorbPercentPhysical" value="6" />
 		<attribute key="showattributes" value="1" />
@@ -35647,13 +35581,10 @@
 		<attribute key="weight" value="550" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
-		<attribute key="decayTo" value="0" />
 		<attribute key="transformDeEquipTo" value="24717" />
 		<attribute key="armor" value="3" />
 		<attribute key="absorbPercentPhysical" value="6" />
-		<attribute key="duration" value="3600" />
 		<attribute key="showattributes" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="24791" name="dead elder forest fury">
 		<attribute key="containerSize" value="24" />
@@ -37707,11 +37638,8 @@
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="skillDist" value="4" />
 		<attribute key="magiclevelpoints" value="2" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26198" />
 	</item>
@@ -37719,14 +37647,11 @@
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="healthGain" value="2" />
 		<attribute key="healthTicks" value="6000" />
 		<attribute key="manaGain" value="8" />
 		<attribute key="manaTicks" value="6000" />
 		<attribute key="magiclevelpoints" value="3" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26199" />
 	</item>
@@ -37734,13 +37659,10 @@
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="skillSword" value="4" />
 		<attribute key="skillClub" value="4" />
 		<attribute key="skillAxe" value="4" />
 		<attribute key="absorbPercentPhysical" value="5" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26200" />
 	</item>
@@ -37749,18 +37671,13 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="26186" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26186" article="a" name="ring of blue plasma">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="skillDist" value="3" />
 		<attribute key="magiclevelpoints" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26185" />
 	</item>
@@ -37769,21 +37686,16 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="26188" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26188" article="a" name="ring of green plasma (faster regeneration)">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="healthGain" value="1" />
 		<attribute key="healthTicks" value="6000" />
 		<attribute key="manaGain" value="4" />
 		<attribute key="manaTicks" value="6000" />
 		<attribute key="magiclevelpoints" value="2" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26187" />
 	</item>
@@ -37792,20 +37704,15 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="26190" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26190" article="a" name="ring of red plasma">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="1800" />
 		<attribute key="skillSword" value="3" />
 		<attribute key="skillClub" value="3" />
 		<attribute key="skillAxe" value="3" />
 		<attribute key="absorbPercentPhysical" value="3" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="transformDeEquipTo" value="26189" />
 	</item>
@@ -37835,24 +37742,18 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
 		<attribute key="transformEquipTo" value="26182" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26199" name="collar of green plasma">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
 		<attribute key="transformEquipTo" value="26183" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26200" name="collar of red plasma">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
 		<attribute key="transformEquipTo" value="26184" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="26201" article="an" name="energy drink" plural="energy drinks">
 		<attribute key="loottype" value="food" />
@@ -45537,9 +45438,6 @@
 		<attribute key="absorbPercentEarth" value="24" />
 		<attribute key="absorbPercentPhysical" value="7" />
 		<attribute key="transformDeEquipTo" value="34981" />
-		<attribute key="decayTo" value="34066" />
-		<attribute key="duration" value="3600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="34981" article="an" name="enchanted sleep shawl">
@@ -45547,9 +45445,6 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="loottype" value="amulet" />
 		<attribute key="transformEquipTo" value="34980" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="duration" value="3600" />
-		<attribute key="showduration" value="1" />
 	</item>
 	<item id="34982" article="an" name="enchanted pendulet">
 		<attribute key="weight" value="650" />
@@ -45560,9 +45455,6 @@
 		<attribute key="absorbPercentEnergy" value="18" />
 		<attribute key="absorbPercentPhysical" value="5" />
 		<attribute key="transformDeEquipTo" value="34983" />
-		<attribute key="decayTo" value="34067" />
-		<attribute key="duration" value="7200" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="34983" article="an" name="enchanted pendulet">
@@ -47888,11 +47780,8 @@
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="36392" />
 		<attribute key="transformDeEquipTo" value="36456" />
 		<attribute key="absorbPercentFire" value="6" />
-		<attribute key="duration" value="3600" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="36452" name="winged boots">
@@ -47921,8 +47810,6 @@
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="36451" />
 		<attribute key="absorbPercentFire" value="6" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="36457" name="Urmahlullu's Tail">
@@ -49301,10 +49188,7 @@
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
-		<attribute key="decayTo" value="37456" />
 		<attribute key="transformDeEquipTo" value="37471" />
-		<attribute key="duration" value="7200" />
-		<attribute key="showduration" value="1" />
 		<attribute key="description" value="Wearing it makes you feel a little weaker than usual." />
 		<attribute key="absorbPercentPhysical" value="2" />
 		<attribute key="absorbPercentLifeDrain" value="10" />
@@ -49315,8 +49199,6 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="loottype" value="ring" />
 		<attribute key="transformEquipTo" value="37470" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="absorbPercentPhysical" value="2" />
 		<attribute key="absorbPercentLifeDrain" value="10" />
 		<attribute key="showattributes" value="1" />
