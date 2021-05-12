@@ -1,9 +1,8 @@
 # OTServ Brasil - Global Server
 
-[![Discord Channel](https://img.shields.io/discord/528117503952551936.svg?style=flat-square&logo=discord)](https://discord.gg/3NxYnyV)
-[![GitHub issues](https://img.shields.io/github/issues/opentibiabr/otservbr-global)](https://github.com/opentibiabr/otservbr-global/issues)
-[![GitHub pull request](https://img.shields.io/github/issues-pr/opentibiabr/otservbr-global)](https://github.com/opentibiabr/otservbr-global/pulls)
-[![Contributors](https://img.shields.io/github/contributors/opentibiabr/otservbr-global.svg?style=flat-square)](https://github.com/opentibiabr/otservbr-global/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/DanMargera/otservbr-global)](https://github.com/opentibiabr/otservbr-global/issues)
+[![GitHub pull request](https://img.shields.io/github/issues-pr/DanMargera/otservbr-global)](https://github.com/opentibiabr/otservbr-global/pulls)
+[![Contributors](https://img.shields.io/github/contributors/DanMargera/otservbr-global.svg?style=flat-square)](https://github.com/opentibiabr/otservbr-global/graphs/contributors)
 [![GitHub](https://img.shields.io/github/license/opentibiabr/otservbr-global)](https://github.com/opentibiabr/otservbr-global/blob/develop/LICENSE)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/opentibiabr/otservbr-global)
@@ -14,10 +13,10 @@
 
 ## Builds
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/opentibiabr/otservbr-global?branch=develop&passingText=develop%20-%20OK&svg=true)](https://ci.appveyor.com/project/opentibiabr/otservbr-global/build/artifacts "Download nightly builds for Windows")
+[![Build status](https://ci.appveyor.com/api/projects/status/github/DanMargera/otservbr-global?branch=develop&passingText=develop%20-%20OK&svg=true)](https://ci.appveyor.com/project/DanMargera/otservbr-global/build/artifacts "Download nightly builds for Windows")
 
-[![Build on Ubuntu](https://github.com/opentibiabr/otservbr-global/workflows/Build%20on%20Ubuntu/badge.svg)](https://github.com/opentibiabr/otservbr-global/actions?query=workflow%3A%22Build+on+Ubuntu%22)
-[![Build on Windows](https://github.com/opentibiabr/otservbr-global/workflows/Build%20on%20Windows/badge.svg)](https://github.com/opentibiabr/otservbr-global/actions?query=workflow%3A%22Build+on+Windows%22)
+[![Build on Ubuntu](https://github.com/DanMargera/otservbr-global/workflows/Build%20on%20Ubuntu/badge.svg)](https://github.com/DanMargera/otservbr-global/actions?query=workflow%3A%22Build+on+Ubuntu%22)
+[![Build on Windows](https://github.com/DanMargera/otservbr-global/workflows/Build%20on%20Windows/badge.svg)](https://github.com/DanMargera/otservbr-global/actions?query=workflow%3A%22Build+on+Windows%22)
 
 ## Project
 
