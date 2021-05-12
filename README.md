@@ -2,7 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/DanMargera/otservbr-global)](https://github.com/opentibiabr/otservbr-global/issues)
 [![GitHub pull request](https://img.shields.io/github/issues-pr/DanMargera/otservbr-global)](https://github.com/opentibiabr/otservbr-global/pulls)
-[![Contributors](https://img.shields.io/github/contributors/DanMargera/otservbr-global.svg?style=flat-square)](https://github.com/opentibiabr/otservbr-global/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/DanMargera/otservbr-global.svg?style=flat-square)](https://github.com/DanMargera/otservbr-global/graphs/contributors)
 [![GitHub](https://img.shields.io/github/license/opentibiabr/otservbr-global)](https://github.com/opentibiabr/otservbr-global/blob/develop/LICENSE)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/opentibiabr/otservbr-global)
